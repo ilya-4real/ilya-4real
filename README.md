@@ -1,10 +1,12 @@
-### Hi there 👋
+### Hey👋
 
-My name is **Ilya**. I am **backend python dev**
+My name is **Ilya**. I am **back-end dev**
 
-A little bit about myself:
+Currently working with:
+- python 🐍
+- FastAPI and other asynchronous frameworks ⚡
 
-- 🔭 I’m currently working with FastAPI⚡ web framework
-- 👯 I’m looking to collaborate on python experts
-- 📫 How to reach me: ilya.chernishyov@gmail.com
+But deep down I am a Rust enjoyer, So don't be surprised to see memory management and borrowing in one conversation with me 😃
+Also I have some experience in classic ML and a bit in neural networks 🤖
 
+Contact me: ilya.chernishyov@gmail.com
